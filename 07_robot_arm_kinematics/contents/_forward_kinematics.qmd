@@ -552,7 +552,7 @@ $$
 
 ::: {.column width="33%"}
 $$
-\bm{A}_4 = \begin{pmatrix}
+\bm{A}_5 = \begin{pmatrix}
 c_5 & 0 & s_5 & 0 \\ s_5 & 0 & -c_5 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1
 \end{pmatrix}
 $$
